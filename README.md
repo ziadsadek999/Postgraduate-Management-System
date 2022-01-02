@@ -5,4 +5,4 @@ This project is implemented in cooperation with three of my GUCian colleagues,
 Aly Hassan Elsokkary, 
 Aya Ahmed Abdelrahman Fayed,
 Abdelrahman Fathy Elsalh.
-Note that the web application does not allow us to preform all the stored SQL procedures as this project was done for educational purpose
+Note that the web application does not allow us to preform all the stored SQL procedures as this project was done for educational purpose.
